@@ -1,0 +1,12 @@
+This is dummy file for testing git.
+
+
+This is second time of changes.
+
+This is third time of change.
+
+This is fourth time of change.
+
+This is fifth time of change.
+
+This is sixth time of change.
